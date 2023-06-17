@@ -1,1 +1,42 @@
 /* You can add global styles to this file, and also import other style files */
+/* Estilos para el encabezado de la tarjeta */
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .card-text {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .text-body-secondary {
+    color: gray;
+  }
+  
+  /* Estilos para las imágenes */
+  .card-img-top,
+  .img-fluid {
+    border-radius: 8px;
+  }
+  
+  /* Estilos para el contenedor principal */
+  .container {
+    margin-top: 20px;
+  }
+  
+  /* Estilos para el cuerpo del documento */
+  body {
+    background-color: #f8f9fa;
+  }
+  
+  /* Estilos para el centro de la página */
+  .center {
+    text-align: center;
+  }
+  
+  /* Estilos para el tamaño máximo de la tarjeta */
+  .card {
+    max-width: 900px;
+  }
